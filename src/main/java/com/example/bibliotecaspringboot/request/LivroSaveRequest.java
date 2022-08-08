@@ -3,7 +3,7 @@ package com.example.bibliotecaspringboot.request;
 import lombok.Data;
 
 @Data
-public class LivroRequest {
+public class LivroSaveRequest {
 
     private String nome;
     private String autor;
